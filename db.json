@@ -853,6 +853,127 @@
         }
     ],
     "orderList": [
-        
+        {
+            "orderId": "c15259d2-0ae6-43cc-b660-079e51dbfbe0",
+            "orderInfo": {
+                "subTotal": 600,
+                "shipping": 0,
+                "total": 600,
+                "status": "draft",
+                "orderDate": 1701265957
+            },
+            "orderDetails": [
+                {
+                    "img": "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
+                    "title": "Nike Waffle One Sneaker",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "200",
+                    "company": "Nike",
+                    "color": "green",
+                    "category": "sneakers",
+                    "id": 3,
+                    "quantity": 1,
+                    "amount": "200"
+                },
+                {
+                    "img": "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
+                    "title": "Nike Running Shoe",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "200",
+                    "company": "Adidas",
+                    "color": "black",
+                    "category": "sneakers",
+                    "id": 4,
+                    "quantity": 1,
+                    "amount": "200"
+                },
+                {
+                    "img": "https://m.media-amazon.com/images/I/71VaQ+V6XnL._AC_UY695_.jpg",
+                    "title": "Nike Zoom Freak",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "200",
+                    "company": "Nike",
+                    "color": "green",
+                    "category": "sneakers",
+                    "id": 8,
+                    "quantity": 1,
+                    "amount": "200"
+                }
+            ],
+            "customerInfo": {
+                "fullname": "Khoa Nguyễn",
+                "mobile": "+1 (996) 449-4832",
+                "address": "28 Nguyễn Tri Phương, Phú Nhuận, TP Huế",
+                "email": "nguyenhuuanhkhoa@gmail.com"
+            },
+            "id": 1
+        },
+        {
+            "orderId": "7f58496a-52d2-445f-8037-4025b32b093d",
+            "orderInfo": {
+                "subTotal": 1050,
+                "shipping": 0,
+                "total": 1050,
+                "status": "draft",
+                "orderDate": 1701266026
+            },
+            "orderDetails": [
+                {
+                    "img": "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
+                    "title": "Nike Men's Sneaker",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "200",
+                    "company": "Adidas",
+                    "color": "blue",
+                    "category": "sneakers",
+                    "id": 9,
+                    "quantity": 2,
+                    "amount": 400
+                },
+                {
+                    "img": "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
+                    "title": "Roma Basic Sneaker",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "150",
+                    "company": "Puma",
+                    "color": "white",
+                    "category": "sneakers",
+                    "id": 13,
+                    "quantity": 3,
+                    "amount": 450
+                },
+                {
+                    "img": "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
+                    "title": "Low-Top Trainers",
+                    "star": 4,
+                    "reviews": 123,
+                    "prevPrice": "140",
+                    "newPrice": "100",
+                    "company": "Vans",
+                    "color": "white",
+                    "category": "sandals",
+                    "id": 17,
+                    "quantity": 2,
+                    "amount": 200
+                }
+            ],
+            "customerInfo": {
+                "fullname": "Baker Madden",
+                "mobile": "+1 (545) 593-6703",
+                "address": "176 Trần Phú, Trường An, TP Huế",
+                "email": "Nova.Gleichner61@yahoo.com"
+            },
+            "id": 2
+        }
     ]
 }
