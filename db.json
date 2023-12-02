@@ -840,23 +840,23 @@
         },
         {
             "id": 1,
-            "name" : "Black"
+            "name" : "black"
         },
         {
             "id": 3,
-            "name": "Blue"
+            "name": "blue"
         },
         {
             "id": 4,
-            "name": "Red"
+            "name": "red"
         },
         {
             "id": 5,
-            "name": "Green"
+            "name": "green"
         },
         {
             "id": 6,
-            "name": "White"
+            "name": "white"
         }
         
     ],
