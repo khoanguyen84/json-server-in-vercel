@@ -791,10 +791,6 @@
     ],
     "categories": [
         {
-            "id": 0,
-            "name": "All"
-        },
-        {
             "id": 1,
             "name": "Sneakers"
         },
@@ -813,10 +809,6 @@
     ],
     "companies": [
         {
-            "value": "All",
-            "name": "All Products"
-        },
-        {
             "value": "Nike",
             "name": "Nike"
         },
@@ -834,10 +826,6 @@
         }
     ],
     "colors": [
-        {
-            "id": 0,
-            "name": "All"
-        },
         {
             "id": 1,
             "name" : "black"
@@ -861,10 +849,6 @@
         
     ],
     "prices": [
-        {
-            "value": "0,0",
-            "name": "All"
-        },
         {
             "value": "0,50",
             "name": "$0-$50"
