@@ -791,6 +791,10 @@
     ],
     "categories": [
         {
+            "id": 0,
+            "name": "All"
+        },
+        {
             "id": 1,
             "name": "Sneakers"
         },
@@ -809,28 +813,74 @@
     ],
     "companies": [
         {
-            "id": "1",
+            "value": "All",
+            "name": "All Products"
+        },
+        {
+            "value": "Nike",
             "name": "Nike"
         },
         {
-            "id": "2",
+            "value": "Adidas",
             "name": "Adidas"
         },
         {
-            "id": "3",
+            "value": "Puma",
             "name": "Puma"
         },
         {
-            "id": "4",
+            "value": "Vans",
             "name": "Vans"
         }
     ],
     "colors": [
-        "Black",
-        "Blue",
-        "Red",
-        "Green",
-        "White"
+        {
+            "id": 0,
+            "name": "All"
+        },
+        {
+            "id": 1,
+            "name" : "Black"
+        },
+        {
+            "id": 3,
+            "name": "Blue"
+        },
+        {
+            "id": 4,
+            "name": "Red"
+        },
+        {
+            "id": 5,
+            "name": "Green"
+        },
+        {
+            "id": 6,
+            "name": "White"
+        }
+        
+    ],
+    "prices": [
+        {
+            "value": "0,0",
+            "name": "All"
+        },
+        {
+            "value": "0,50",
+            "name": "$0-$50"
+        },
+        {
+            "value": "50,100",
+            "name": "$50-$100"
+        },
+        {
+            "value": "100,150",
+            "name": "$100-$150"
+        },
+        {
+            "value": "150,150",
+            "name": "Over $150"
+        }
     ],
     "todos": [
         {
