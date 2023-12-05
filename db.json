@@ -460,8 +460,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "white",
-            "category": "sneakers",
+            "color": "White",
+            "category": "Sneakers",
             "id": 1
         },
         {
@@ -472,8 +472,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "red",
-            "category": "sneakers",
+            "color": "Red",
+            "category": "Sneakers",
             "id": 2
         },
         {
@@ -484,8 +484,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "green",
-            "category": "sneakers",
+            "color": "Green",
+            "category": "Sneakers",
             "id": 3
         },
         {
@@ -496,8 +496,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Adidas",
-            "color": "black",
-            "category": "sneakers",
+            "color": "Black",
+            "category": "Sneakers",
             "id": 4
         },
         {
@@ -508,8 +508,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Vans",
-            "color": "green",
-            "category": "flats",
+            "color": "Green",
+            "category": "Flats",
             "id": 5
         },
         {
@@ -520,8 +520,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Adidas",
-            "color": "black",
-            "category": "flats",
+            "color": "Black",
+            "category": "Flats",
             "id": 6
         },
         {
@@ -532,8 +532,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Vans",
-            "color": "white",
-            "category": "flats",
+            "color": "White",
+            "category": "Flats",
             "id": 7
         },
         {
@@ -544,8 +544,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "green",
-            "category": "sneakers",
+            "color": "Green",
+            "category": "Sneakers",
             "id": 8
         },
         {
@@ -556,8 +556,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Adidas",
-            "color": "blue",
-            "category": "sneakers",
+            "color": "Blue",
+            "category": "Sneakers",
             "id": 9
         },
         {
@@ -568,8 +568,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Puma",
-            "color": "green",
-            "category": "sneakers",
+            "color": "Green",
+            "category": "Sneakers",
             "id": 10
         },
         {
@@ -580,8 +580,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Puma",
-            "color": "red",
-            "category": "sneakers",
+            "color": "Red",
+            "category": "Sneakers",
             "id": 11
         },
         {
@@ -592,8 +592,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Puma",
-            "color": "black",
-            "category": "sneakers",
+            "color": "Black",
+            "category": "Sneakers",
             "id": 12
         },
         {
@@ -604,8 +604,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Puma",
-            "color": "white",
-            "category": "sneakers",
+            "color": "White",
+            "category": "Sneakers",
             "id": 13
         },
         {
@@ -616,8 +616,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Puma",
-            "color": "black",
-            "category": "sneakers",
+            "color": "Black",
+            "category": "Sneakers",
             "id": 14
         },
         {
@@ -628,8 +628,8 @@
             "prevPrice": "140",
             "newPrice": "100",
             "company": "Puma",
-            "color": "green",
-            "category": "sneakers",
+            "color": "Green",
+            "category": "Sneakers",
             "id": 15
         },
         {
@@ -640,8 +640,8 @@
             "prevPrice": "140",
             "newPrice": "100",
             "company": "Vans",
-            "color": "red",
-            "category": "flats",
+            "color": "Red",
+            "category": "Flats",
             "id": 16
         },
         {
@@ -652,8 +652,8 @@
             "prevPrice": "140",
             "newPrice": "100",
             "company": "Vans",
-            "color": "white",
-            "category": "sandals",
+            "color": "White",
+            "category": "Sandals",
             "id": 17
         },
         {
@@ -664,8 +664,8 @@
             "prevPrice": "140",
             "newPrice": "100",
             "company": "Vans",
-            "color": "blue",
-            "category": "sandals",
+            "color": "Blue",
+            "category": "Sandals",
             "id": 18
         },
         {
@@ -676,8 +676,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Nike",
-            "color": "black",
-            "category": "sandals",
+            "color": "Black",
+            "category": "Sandals",
             "id": 19
         },
         {
@@ -688,8 +688,8 @@
             "prevPrice": "40",
             "newPrice": "50",
             "company": "Vans",
-            "color": "black",
-            "category": "heels",
+            "color": "Black",
+            "category": "Heels",
             "id": 20
         },
         {
@@ -700,8 +700,8 @@
             "prevPrice": "140",
             "newPrice": "100",
             "company": "puma",
-            "color": "black",
-            "category": "heels",
+            "color": "Black",
+            "category": "Heels",
             "id": 21
         },
         {
@@ -712,8 +712,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Nike",
-            "color": "red",
-            "category": "heels",
+            "color": "Red",
+            "category": "Heels",
             "id": 22
         },
         {
@@ -724,8 +724,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "red",
-            "category": "sneakers",
+            "color": "Red",
+            "category": "Sneakers",
             "id": 23
         },
         {
@@ -736,8 +736,8 @@
             "prevPrice": "140",
             "newPrice": "200",
             "company": "Nike",
-            "color": "black",
-            "category": "heels",
+            "color": "Black",
+            "category": "Heels",
             "id": 24
         },
         {
@@ -748,8 +748,8 @@
             "prevPrice": "40",
             "newPrice": "50",
             "company": "Adidas",
-            "color": "black",
-            "category": "heels",
+            "color": "Black",
+            "category": "Heels",
             "id": 25
         },
         {
@@ -760,8 +760,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Adidas",
-            "color": "white",
-            "category": "heels",
+            "color": "White",
+            "category": "Heels",
             "id": 26
         },
         {
@@ -772,8 +772,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Adidas",
-            "color": "black",
-            "category": "heels",
+            "color": "Black",
+            "category": "Heels",
             "id": 27
         },
         {
@@ -784,8 +784,8 @@
             "prevPrice": "140",
             "newPrice": "150",
             "company": "Adidas",
-            "color": "black",
-            "category": "flats",
+            "color": "Black",
+            "category": "Flats",
             "id": 28
         }
     ],
@@ -796,7 +796,7 @@
         },
         {
             "id": 2,
-            "name": "flats"
+            "name": "Flats"
         },
         {
             "id": 3,
@@ -804,7 +804,7 @@
         },
         {
             "id": 4,
-            "name": "heels"
+            "name": "Heels"
         }
     ],
     "companies": [
@@ -828,23 +828,23 @@
     "colors": [
         {
             "id": 1,
-            "name" : "black"
+            "name" : "Black"
         },
         {
             "id": 3,
-            "name": "blue"
+            "name": "Blue"
         },
         {
             "id": 4,
-            "name": "red"
+            "name": "Red"
         },
         {
             "id": 5,
-            "name": "green"
+            "name": "Green"
         },
         {
             "id": 6,
-            "name": "white"
+            "name": "White"
         }
         
     ],
