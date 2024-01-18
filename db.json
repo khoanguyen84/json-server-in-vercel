@@ -1431,7 +1431,7 @@
             "year": 2023
         }
     ],
-    "studentList": [
+    "student": [
         {
             "fullname": "Stone Gomez",
             "gender": true,
@@ -1862,7 +1862,7 @@
             "id": "49"
         }
     ],
-    "departmentList": [
+    "department": [
         {
             "name": "CNTT",
             "id": "1"
