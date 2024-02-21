@@ -1883,32 +1883,32 @@
     "users": [
         {
             "id": 1,
-            "email": "khoa.nguyen@codegyn.vn",
+            "email": "khoa.nguyen@codegym.vn",
             "username": "Khoa Nguyễn"
         },
         {
             "id": 2,
-            "email": "minh.bui@codegyn.vn",
+            "email": "minh.bui@codegym.vn",
             "username": "Minh Bùi"
         },
         {
             "id": 3,
-            "email": "quang.dang@codegyn.vn",
+            "email": "quang.dang@codegym.vn",
             "username": "Quang Đặng"
         },
         {
             "id": 4,
-            "email": "dat.truong@codegyn.vn",
+            "email": "dat.truong@codegym.vn",
             "username": "Đạt Trương"
         },
         {
             "id": 5,
-            "email": "ngoc.phan@codegyn.vn",
+            "email": "ngoc.phan@codegym.vn",
             "username": "Ngọc Phan"
         },
         {
             "id": 6,
-            "email": "vinh.trang@codegyn.vn",
+            "email": "vinh.tran@codegym.vn",
             "username": "Vinh Trần"
         }
     ]
